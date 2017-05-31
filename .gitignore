@@ -1,0 +1,9 @@
+/Application/bin
+/Application/obj
+/Domain/bin
+/Domain/obj
+/Infra.Data/bin
+/Infra.Data/obj
+/MVC/bin
+/MVC/obj
+/packages
